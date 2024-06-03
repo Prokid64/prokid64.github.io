@@ -45,8 +45,7 @@ export default defineConfig({
 	// https://docs.astro.build/en/guides/prefetch/
 	prefetch: true,
 	// ! Please remember to replace the following site property with your own domain
-	site: "prokid64.github.io",
-  base: "/ghwebsite",
+	site: "prokid64.github.io/ghwebsite",
 	vite: {
 		optimizeDeps: {
 			exclude: ["@resvg/resvg-js"],
