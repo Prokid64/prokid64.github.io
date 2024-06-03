@@ -7,7 +7,7 @@ import pagefind from "astro-pagefind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "prokid64.github.io",
+  site: "https://prokid64.github.io",
   base: "/ghwebsite",
   integrations: [tailwind(), sitemap(), mdx(), pagefind()],
   markdown: {
