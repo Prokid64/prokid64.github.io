@@ -11,10 +11,12 @@
 		"check": "astro check"
 	},
 	"dependencies": {
+		"@astrojs/check": "^0.7.0",
 		"@astrojs/mdx": "2.2.4",
 		"@astrojs/rss": "4.0.5",
 		"@astrojs/sitemap": "3.1.2",
 		"@astrojs/tailwind": "5.1.0",
+		"@iconify-json/iconoir": "^1.1.44",
 		"astro": "4.5.16",
 		"astro-expressive-code": "^0.34.1",
 		"astro-icon": "^1.1.0",
@@ -22,7 +24,6 @@
 		"satori": "0.10.13",
 		"satori-html": "^0.3.2",
 		"sharp": "^0.33.2",
-		"@astrojs/check": "^0.7.0",
 		"typescript": "^5.4.5"
 	},
 	"devDependencies": {
