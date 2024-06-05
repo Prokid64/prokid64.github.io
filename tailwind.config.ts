@@ -67,6 +67,14 @@ export default {
 						},
 						blockquote: {
 							borderLeftWidth: "0",
+							border: "0px dashed #666",
+							borderBottomWidth: "1px",
+							borderTopWidth: "1px",
+							borderColor: "hsl(var(--theme-quote) / <alpha-value>)",
+							backgroundColor: "hsl(var(--theme-quote) / 5%)",
+							fontStyle: "normal",
+							'p:first-of-type::before': { content: 'none' },
+							'p:first-of-type::after': { content: 'none' },
 						},
 						code: {
 							border: "1px dotted #666",

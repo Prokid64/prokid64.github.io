@@ -38,9 +38,9 @@ _This is italic text_
 
 ## Blockquotes
 
-> Blockquotes can also be nested...
+>⚠️ Warning
 >
-> > ...by using additional greater-than signs right next to each other...
+>Please navigate this website carefully. Reckless navigation may result in no-cliiping into the backrooms 
 
 ## References
 
