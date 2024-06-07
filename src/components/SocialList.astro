@@ -15,13 +15,13 @@ const socialLinks: {
 	{
 		friendlyName: "Github",
 		link: "https://github.com/Prokid64/ghwebsite",
-		name: "iconoir:github",
+		name: "iconoir:github-circle",
 	},
 ];
 ---
 
 <div class="flex flex-wrap items-end gap-x-2">
-	<p>Find me on</p>
+	<p class="self-center">Find me on</p>
 	<ul class="flex flex-1 items-center gap-x-2 sm:flex-initial">
 		{
 			socialLinks.map(({ friendlyName, isWebmention, link, name }) => (
