@@ -50,6 +50,7 @@ export default {
 			},
 			fontFamily: {
 				// Add any custom fonts here
+				mono: ['"FiraCode"', ...fontFamily.mono],
 				sans: [...fontFamily.sans],
 				serif: [...fontFamily.serif],
 			},
