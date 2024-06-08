@@ -43,7 +43,7 @@ _This is italic text_
 
 >⚠️ Warning
 >
->Please navigate this website carefully. Reckless navigation may result in no-cliiping into the backrooms 
+>Please navigate this website carefully. Reckless navigation may result in no-clipping into the backrooms 
 
 ## References
 

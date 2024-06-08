@@ -74,6 +74,7 @@ export default {
 							borderColor: "hsl(var(--theme-quote) / <alpha-value>)",
 							backgroundColor: "hsl(var(--theme-quote) / 5%)",
 							fontStyle: "normal",
+							paddingRight: "1rem",
 							'p:first-of-type::before': { content: 'none' },
 							'p:first-of-type::after': { content: 'none' },
 						},
