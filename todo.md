@@ -1,0 +1,3 @@
+- [ ] Update 404 page to be more descriptive
+- [ ] Make dark theme default regardless of system theme
+- [ ] Change light theme colors
