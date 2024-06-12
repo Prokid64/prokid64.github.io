@@ -7,12 +7,12 @@
 	:root[data-theme="light"] {
 		color-scheme: light;
 		/* https://tailwindcss.com/docs/customizing-colors#using-css-variables */
-		--theme-bg: 0deg 0% 98%;
-		--theme-link: 172deg 32% 50%;
+		--theme-bg: 36deg 20% 95%;
+		--theme-link: 18deg 100% 69%;
 		--theme-text: 203deg 11% 15%;
-		--theme-accent: 16deg 86% 42%;
+		--theme-accent: 150deg 40% 50%;
 		--theme-accent-2: 0deg 0% 7%;
-		--theme-quote: 351deg 11% 15%;
+		--theme-quote: 18deg 100% 60%;
 	}
 
 	:root[data-theme="dark"] {
@@ -20,7 +20,7 @@
 		--theme-bg: 210deg 6% 12%;
 		--theme-link: 166deg 65% 46%;
 		--theme-text: 220deg 3% 98%;
-		--theme-accent: 16deg 100% 66%;
+		--theme-accent: 16deg 100% 66%;	
 		--theme-accent-2: 0deg 0% 98%;
 		--theme-quote: 220deg 20% 86%;
 	}
