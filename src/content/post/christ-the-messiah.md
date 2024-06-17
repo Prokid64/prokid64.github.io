@@ -17,11 +17,11 @@ Jesus is the long awaited Messiah, the foretold Savior of the world, that is, of
 >
 >The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord, ([Isa.65:25](https://www.biblegateway.com/passage/?search=Isa65%3A25&version=KJV)).
 
-# The Grand Scale of Redemption
+### The Grand Scale of Redemption
 
 This is why the saints of old awaited the Savior so anxiously, ([Heb. 11](https://www.biblegateway.com/passage/?search=Heb11&version=KJV)). This is why John the Baptist joyfully proclaimed, "Behold the Lamb of God, *which taketh away the sin of the world*," ([John.1:29](https://www.biblegateway.com/passage/?search=John1%3A29&version=KJV)). These men saw the grand scale of the redemption God was bringing. They saw forgiveness, cleansing, reconciliation, and redemption of body and soul, all in Christ. For as far as the curse of Adam goes, the blessing of Christ goes further.
 
-# An Abundance of Grace
+### An Abundance of Grace
 
 >But not as the offence, so also is the free gift. For if through the offence of one many be dead, *much more* the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.
 >
@@ -44,7 +44,7 @@ As much as sin screwed us up, God's grace fixes us up *and then makes us even be
 
 The same applies with creation. As futile as sin made the earth, Christ will make it hundreds of times more abundant.
 
-# The Heavenly Glory of Redemption
+### The Heavenly Glory of Redemption
 
 So what does Christ give us that Adam and Eve didn't already have in Eden?
 
