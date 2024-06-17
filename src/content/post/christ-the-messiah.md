@@ -17,7 +17,11 @@ Jesus is the long awaited Messiah, the foretold Savior of the world, that is, of
 >
 >The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord, ([Isa.65:25](https://www.biblegateway.com/passage/?search=Isa65%3A25&version=KJV)).
 
+# The Grand Scale of Redemption
+
 This is why the saints of old awaited the Savior so anxiously, ([Heb. 11](https://www.biblegateway.com/passage/?search=Heb11&version=KJV)). This is why John the Baptist joyfully proclaimed, "Behold the Lamb of God, *which taketh away the sin of the world*," ([John.1:29](https://www.biblegateway.com/passage/?search=John1%3A29&version=KJV)). These men saw the grand scale of the redemption God was bringing. They saw forgiveness, cleansing, reconciliation, and redemption of body and soul, all in Christ. For as far as the curse of Adam goes, the blessing of Christ goes further.
+
+# An Abundance of Grace
 
 >But not as the offence, so also is the free gift. For if through the offence of one many be dead, *much more* the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.
 >
@@ -40,15 +44,20 @@ As much as sin screwed us up, God's grace fixes us up *and then makes us even be
 
 The same applies with creation. As futile as sin made the earth, Christ will make it hundreds of times more abundant.
 
+# The Heavenly Glory of Redemption
+
 So what does Christ give us that Adam and Eve didn't already have in Eden?
 
 >So also it is written, "The first man, Adam, *became a living soul.*"  The last Adam *became a life-giving spirit,* ([ICor.15:45](https://www.biblegateway.com/passage/?search=ICor15%3A25&version=KJV)).
+>
 >That they all may be one; as thou, Father, art in me, and I in thee, *that they also may be one in us*… ([John.17:21](https://www.biblegateway.com/passage/?search=John17%3A21&version=KJV)).
 
 By the advent of the Messiah we enjoy fellowship with God, and moreover, *unity with Him*. By His becoming flesh, dying for us and rising again, God and man enjoy a special unity wherein the Son partakes in human existence and man partakes in the eternal, life-giving love of the Father.
 
 >26 And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.
+>
 >27 And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;
+>
 >28 For this is my blood of the new testament, which is shed for many for the remission of sins, ([Matt.26:26-28](https://www.biblegateway.com/passage/?search=Matt26%3A26-28&version=KJV)).
 
 Jesus tore His flesh so that we all could take it and and be revived with new life. He poured His blood over us to cover our deadness in sin with the anointment of His Spirit; the life is in the blood, ([Deut. 12:23](https://www.biblegateway.com/passage/?search=Deut12%3A23&version=KJV)).
