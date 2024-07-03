@@ -40,7 +40,7 @@ Doug Wilson writes on this passage,
 
 [^1]: Douglas Wilson, *To the Church in Rome*, Copyright 2020, 2023 by Douglas Wilson. Published by Canon Press. p.101. See also pp.92-101
 
-As much as sin screwed us up, God's grace fixes us up *and then makes us even better*. Jesus doesn't just make us "ok" then leave us. He is dedicated to making a new humanity that is far better than the first one was *before the Fall.*
+As much as sin messed us up, God's grace fixes us up *and then makes us even better*. Jesus doesn't just make us "ok" then leave us. He is dedicated to making a new humanity that is far better than the first one was *before the Fall.*
 
 The same applies with creation. As futile as sin made the earth, Christ will make it hundreds of times more abundant.
 
