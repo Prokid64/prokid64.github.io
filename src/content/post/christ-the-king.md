@@ -26,7 +26,10 @@ As God He is all-powerful and most holy.
 
 As a man He can reign over us in a more immanent way. Our King isn't only transcendent; He is near the people of His Kingdom, and one day He will live with us. It is like in Shakespeare's play Henry V, when King Henry puts on a commoner's cloak and talks among his soldiers.
 
-Because He is a man we can be remade in His image and still be human. This proves that God doesn't only care about saving our spirits, but also is concerned about redeeming our whole selves, everything that makes us human: how we treat each other, our sexuality, our work, our education, our routines, etc.. This full redemption will be complete in the bodily resurrection.
+Because He is a man we can be remade in His image and still be human. 
+Jesus had a hometown, a mother, neighbors, friends. He grew up with a family. He was trained. He had unique DNA. And because Jesus still bears these unique traits, you and I can be born again in Him and keep our human peculiarities.
+
+This proves that God doesn't only care about saving our spirits, but also is concerned about redeeming our whole selves, everything that makes us human: how we treat each other, our sexuality, our work, our education, our routines, etc.. This full redemption will be complete in the bodily resurrection.
 
 What is the moral philosophy of this King? What does the Author of goodness say about morality?
 
