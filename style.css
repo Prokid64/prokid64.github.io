@@ -189,3 +189,60 @@ blockquote {
     margin-top: 2%;
     font-size: 12pt;
 }
+
+@media (max-width: 600px) {
+
+    body {
+        width: 95%;
+        margin: 2% auto;
+    }
+
+    #article_body {
+        width: 100%;
+        margin: 0;
+        padding-top: 5%;
+    }
+
+    /* Typography adjustments */
+    * {
+        font-size: 12pt;
+        line-height: 1.4rem;
+    }
+
+    p, li, a {
+        font-size: 13pt;
+    }
+
+    h1 {
+        font-size: 20pt;
+    }
+
+    h2 {
+        font-size: 18pt;
+    }
+
+    h3 {
+        font-size: 16pt;
+    }
+
+    /* Navigation stack instead of row */
+    #header ul {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #header ul li {
+        border-right: none;
+        padding: 5px 0;
+    }
+
+    /* Make code blocks scroll nicely */
+    pre {
+        font-size: 11pt;
+        padding: 10px;
+    }
+
+    code {
+        font-size: 11pt;
+    }
+}
