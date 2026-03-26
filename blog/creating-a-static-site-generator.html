@@ -27,7 +27,7 @@
 </ul>
 </div><div id="article_body"><h1>Creating a Static Site Generator From Scratch with Odin</h1>
 <p>A couple of weeks ago, I was looking through my YouTube subscriptions when I stumbled across <a href="https://youtu.be/YvnTsiIFXeI?si=_NmHZcEHW9vMFekY">this</a> video by Ginger Bill, the creator of the Odin programming language, where he talks about how he made a static site generator for his blog with Odin. I had been considering making a blog for a while, and when I saw this video I decided, <em>why not?</em></p>
-<p>I've been learning Odin for the past month-or-so now, and I enjoy it quite alot. One feature that I love about the language is it's built-in vendor libraries. There are dozens of officially supported bindings in this library, including ones for raylib, all the mainsteam graphics API's, and, most importantly for our purposes, Commonmark (a markdown rendering standard and library). So, I decided that I would follow in Mr. Bill's footsteps and create a static site generator with Odin and Commonmark (but in my case, it took <em>much</em> more than 6 hours because I'm still an ameteur).</p>
+<p>I've been learning Odin for the past month-or-so now, and I enjoy it quite alot. One feature that I love about the language is it's built-in vendor libraries. There are dozens of officially supported bindings in this library, including ones for Raylib, all the mainsteam graphics API's, and, most importantly for our purposes, Commonmark (a markdown rendering standard and library). So, I decided that I would follow in Mr. Bill's footsteps and create a static site generator with Odin and Commonmark (but in my case, it took <em>much</em> more than 6 hours because I'm an ameteur).</p>
 <h2>File Structure</h2>
 <p>I pretty quickly decided on a structure for the project. It is a simple static site, so nothing robust is needed. We need the following to make a basic blog website:</p>
 <ol>
@@ -49,14 +49,15 @@ No need to further organize them right now)
 <h2>The Code</h2>
 <p>Now let's dive into the code.</p>
 <p>While coding the basics I defined a couple of structs to implement useful features. First, I made a <code>blogEntry</code> struct that we will use to store metadata later</p>
-<pre><code>blogEntry :: struct
+<pre><code>date :: struct {
+	day, month, year: int
+}
+
+blogEntry :: struct
 {
 	url: string,
 	title: string,
-	date: struct
-	{
-		day, month, year: int
-	}
+	date: date
 }
 </code></pre>
 <p>I also created a struct that simply stores two strings. We can use this to easily enclose html data in its parent tags, ex. wrapping an article in the website's header and footer. I decided to call it a sandwich, because how could I pass up that opportunity?</p>
@@ -71,7 +72,7 @@ fillSandwich :: proc(s: sandwich, filling: string) -&gt; string
 }
 </code></pre>
 <h3>Creating a Custom Preprocessor</h3>
-<p>Most static site generators handle metadata using a custom Json or YAML tag at the start of each article file. I like the convenience of this solution, but I also want full control over how my metadata is formatted, and I don't want to deal with parsing json unnecesarily. So I defined a simple config tag that you can see at the top of the markdown source for this article. Writing the preprocessor that parses out the data wasn't too much of a hassle, and I was able to clean up the code into something I'm content with for now.</p>
+<p>Most static site generators handle metadata using a custom Json or YAML tag at the start of each article file. I like the convenience of this solution, but I also want full control over how my metadata is formatted, and I don't want to deal with parsing Json when it's not necessary. So I defined a simple config tag that you can see at the top of the markdown source for this article. Writing the preprocessor that parses out the data wasn't too much of a hassle, and I was able to clean up the code into something I'm content with for now.</p>
 <pre><code>builder:= strings.builder_make();
 
 	mode:= preprocessorMode.COPYING;
