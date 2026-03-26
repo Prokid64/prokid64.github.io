@@ -2,7 +2,7 @@
 TITLE
 Creating a Static Site Generator From Scratch with Odin
 DATE
-21.3.2026
+25.3.2026
 {END_CONFIG}
 
 # Creating a Static Site Generator From Scratch with Odin
